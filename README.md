@@ -4,3 +4,4 @@
 
 - Sinh viên: Nguyễn Đình Dũng – MSSV 202416173
 - Chạy chương trình: `python main.py`
+  python requirement
