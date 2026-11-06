@@ -41,3 +41,9 @@ class Cart:
         for item in self.items:
             print(f"- {item.title}: {item.cost}$")
         # test  branch disconnut
+        
+    def sort_by_title(self):
+        self.items.sort(key=lambda dvd: dvd.title)
+
+    def sort_by_cost(self):
+        self.items.sort(key=lambda dvd: dvd.cost, reverse=True)
