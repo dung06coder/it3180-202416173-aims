@@ -10,3 +10,10 @@
 
 - Cart.sort_by_title()
 - Cart.sort_by_cost()
+
+## [1.1.0] - 2026-11-06
+
+### Added
+
+- Cart.sort_by_title(), Cart.sort_by_cost()
+- search_by_category()
